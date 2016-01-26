@@ -3,7 +3,6 @@ using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
-using ArquiteturaDDD.Domain.Interfaces;
 using ArquiteturaDDD.Domain.Interfaces.Repositories;
 using ArquiteturaDDD.Infra.Data.Contexto;
 

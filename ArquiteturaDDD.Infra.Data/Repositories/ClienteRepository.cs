@@ -1,7 +1,6 @@
 ﻿
 
 using ArquiteturaDDD.Domain.Entities;
-using ArquiteturaDDD.Domain.Interfaces;
 using ArquiteturaDDD.Domain.Interfaces.Repositories;
 
 namespace ArquiteturaDDD.Infra.Data.Repositories

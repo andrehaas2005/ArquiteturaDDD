@@ -1,7 +1,4 @@
-﻿
-
-using System.Data.Entity.Core.Metadata.Edm;
-using System.Data.Entity.ModelConfiguration;
+﻿using System.Data.Entity.ModelConfiguration;
 using ArquiteturaDDD.Domain.Entities;
 
 namespace ArquiteturaDDD.Infra.Data.EntitiesConfig
