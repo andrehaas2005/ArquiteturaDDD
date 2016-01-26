@@ -1,0 +1,12 @@
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\ArquiteturaDDD.Infra.Data.dll.config
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\ArquiteturaDDD.Infra.Data.dll
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\ArquiteturaDDD.Infra.Data.pdb
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\ArquiteturaDDD.Domain.dll
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\ArquiteturaDDD.Domain.pdb
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Infra.Data\obj\Debug\ArquiteturaDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Infra.Data\obj\Debug\ArquiteturaDDD.Infra.Data.dll
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Infra.Data\obj\Debug\ArquiteturaDDD.Infra.Data.pdb

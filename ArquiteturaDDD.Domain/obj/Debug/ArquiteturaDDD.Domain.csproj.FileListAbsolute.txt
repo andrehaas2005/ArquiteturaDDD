@@ -1,0 +1,4 @@
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Domain\bin\Debug\ArquiteturaDDD.Domain.dll
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Domain\bin\Debug\ArquiteturaDDD.Domain.pdb
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Domain\obj\Debug\ArquiteturaDDD.Domain.dll
+C:\ProjetoNet\ArquiteturaDDD\ArquiteturaDDD\ArquiteturaDDD.Domain\obj\Debug\ArquiteturaDDD.Domain.pdb
